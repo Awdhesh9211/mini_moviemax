@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mini_moviemax/static/css/main.bf3b5ea4.css",
+    "main.js": "/mini_moviemax/static/js/main.46f93e74.js",
+    "static/media/search.svg": "/mini_moviemax/static/media/search.4a33bd9d1480bbfe5f0469cb20459f19.svg",
+    "index.html": "/mini_moviemax/index.html",
+    "main.bf3b5ea4.css.map": "/mini_moviemax/static/css/main.bf3b5ea4.css.map",
+    "main.46f93e74.js.map": "/mini_moviemax/static/js/main.46f93e74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf3b5ea4.css",
+    "static/js/main.46f93e74.js"
+  ]
+}
